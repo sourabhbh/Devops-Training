@@ -31,11 +31,10 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-	public void testConcat()
+	 public void testMain()
     {
-		App app = new App();
-      String result = app.concat("Hello", "Universe");
-
-      assertEquals("HelloUniverse", result);
+	   App app = new App();
+       int result = app.addition(2,4);
+      assertEquals(6, result);
      }
-}
+	}
