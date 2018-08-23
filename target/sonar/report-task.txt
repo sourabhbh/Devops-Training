@@ -1,6 +1,0 @@
-projectKey=com.stars.app:my-app
-serverUrl=http://localhost:9000
-serverVersion=7.2.1.14109
-dashboardUrl=http://localhost:9000/dashboard?id=com.stars.app%3Amy-app
-ceTaskId=AWTaow661j8tyxQZwJfW
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTaow661j8tyxQZwJfW
