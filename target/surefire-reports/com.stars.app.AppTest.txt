@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.stars.app.AppTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.018 sec <<< FAILURE!
-testConcat(com.stars.app.AppTest)  Time elapsed: 0.007 sec  <<< ERROR!
-java.lang.NoSuchMethodError: com.stars.app.App.concat(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
-	at com.stars.app.AppTest.testConcat(AppTest.java:37)
-
